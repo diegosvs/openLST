@@ -1,0 +1,2 @@
+# openLST
+The OpenLST transceiver is approximately six by five centimeters with a mass of 20 grams. This radio operates on the UHF band and provides 3.5 kilobit per second user data rates. The design also provides time-of-flight ranging that can be used to estimate link distance. Full design files, including schematics, bill of materials, and layout are available by cloning the git repos at the links below.
